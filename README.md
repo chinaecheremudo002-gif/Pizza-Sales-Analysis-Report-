@@ -6,7 +6,7 @@ This project analyzes one year of sales data from a fictitious pizza restaurant 
 
 The goal of this project is to understand customer purchasing behavior, identify the best and worst performing pizzas, determine peak sales periods, and evaluate how different pizza categories contribute to total revenue. These insights can help businesses make informed decisions to improve sales performance and optimize their menu.
 
-#Pizza Place Sales Analysis: Key Metrics Overview
+# Pizza Place Sales Analysis: Key Metrics Overview
 
 Over the course of one year, the pizza restaurant generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas in total. This demonstrates a steady stream of customers and strong overall demand.
 
