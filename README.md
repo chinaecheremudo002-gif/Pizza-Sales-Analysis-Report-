@@ -61,9 +61,6 @@ Spicy Italian Pizza – ₦34,831.25
 
 Insight: While these five pizza varieties are the top sellers, they contribute only about 24% of total revenue, indicating that sales are well-distributed across a wide range of menu items. Targeted marketing and promotions for these popular items can still boost revenue, but broad operational strategies should consider the full menu to maximize overall performance.
 
-If you want, I can also rewrite your previous day, hour, and month sales insights in this same style, so your entire README/report has a consistent, professional tone. This would make it look polished and executive-ready.
-
-Do you want me to do that?
 ![top 5Pizza Chart](pizza_top 5.png)
 
 
