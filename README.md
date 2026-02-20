@@ -20,9 +20,15 @@ This trend indicates that operational efforts and promotional activities should 
 
 ![Pizza Sales weekdays](daily_pizza_sales.png)
 
+## hours sales trend 
 
+Peak Sales Hours: 12 PM – 1 PM (111,877 – 106,065 orders) and 5 PM – 6 PM (86,237 – 89,296 orders), corresponding to lunch and dinner periods when customer demand is highest.
 
+Moderate Sales Hours: 2 PM – 4 PM and 7 PM – 8 PM, with steady but lower order volumes.
 
+Off-Peak Hours: 9 AM – 10 AM and late night (11 PM), showing minimal activity.
+
+Professional Insight: Pizza sales are strongest during traditional meal times, reflecting typical customer ordering behavior around lunch and dinner. Focusing operations on these peak hours ensures efficient staffing, timely delivery, and optimized kitchen management. Off-peak hours provide opportunities for preparation, maintenance, or targeted promotions to improve overall performance.
 
 
 
