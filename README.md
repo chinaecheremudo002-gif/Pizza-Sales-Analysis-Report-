@@ -20,7 +20,7 @@ This trend indicates that operational efforts and promotional activities should 
 
 ![Pizza Sales weekdays](daily_pizza_sales.png)
 
-## hours sales trend 
+## Peak and Off-Peak Sales Hours
 
 Peak Sales Hours: 12 PM – 1 PM (111,877 – 106,065 orders) and 5 PM – 6 PM (86,237 – 89,296 orders), corresponding to lunch and dinner periods when customer demand is highest.
 
@@ -33,4 +33,8 @@ Professional Insight: Pizza sales are strongest during traditional meal times, r
 
 
 ![Pizza Sales hour Chart](hourly_pizza_sales.png)
+
+## monthly trend analysis
+
+The monthly sales data for the year demonstrates a generally stable performance with predictable seasonal variations. The highest monthly sales were recorded in May (₦71,402.75) and July (₦72,557.90), driving Q2 to be the strongest quarter with total sales of ₦208,369.75, while the lowest sales occurred in September (₦64,180.05) and October (₦64,027.60), contributing to Q4 being the weakest quarter at ₦199,124.10. Q1 and Q3 performed moderately, with total sales of ₦205,350.00 and ₦205,993.10 respectively, reflecting consistent business activity across the first three quarters. The monthly trend indicates slight fluctuations but no extreme volatility, suggesting that the business maintains steady demand throughout the year. These insights suggest that inventory and marketing strategies should be prioritized around peak months such as May and July, while targeted promotions during slower months in Q4 could help smooth seasonal dips. Overall, the data provides a reliable basis for strategic planning, forecasting, and performance evaluation, ensuring resources are allocated efficiently to capitalize on high-demand periods and mitigate slower sales cycles.
 
