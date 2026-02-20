@@ -15,5 +15,5 @@ The restaurant offers 32 different pizza types, giving customers a wide variety 
 # Sales Patterns Over Time
 ![Pizza Sales weekdays](daily_pizza_sales.png)
 
-![Pizza Sales hour Chart]hourly_pizza_sales.png
+![Pizza Sales hour Chart](hourly_pizza_sales.png)
 
