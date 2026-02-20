@@ -11,3 +11,5 @@ The goal of this project is to understand customer purchasing behavior, identify
 Over the course of one year, the pizza restaurant generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas in total. This demonstrates a steady stream of customers and strong overall demand.
 
 The restaurant offers 32 different pizza types, giving customers a wide variety of choices, with an average price per pizza that reflects the balance between affordability and premium options. These figures set the stage for a deeper look into customer preferences, peak sales periods, and which pizzas are driving the most revenue.
+
+# Sales Patterns Over Time
