@@ -64,7 +64,7 @@ Insight: While these five pizza varieties are the top sellers, they contribute o
 <img width="3000" height="1800" alt="pizza_top 5" src="https://github.com/user-attachments/assets/9b979126-5ebe-4a3b-83da-768e6666f568" />
 
 ## Underperforming pizza types
-<img width="3000" height="2300" alt="pizza_size_bottom_axis_right" src="https://github.com/user-attachments/assets/43b8ff95-7d57-41df-8ec5-60780deca3be" />
+![Pizza Sales hour Chart](pizza_size_bottom.png)
 
 Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75), Spinach Supreme Pizza ($15,360.50), and Spinach Pesto Pizza ($15,596.00) generated the lowest revenue, showing that customers prefer meat-based or classic pizzas. The Brie Carre, being the weakest performer, may need better promotion, a price adjustment, or reconsideration on the menu to boost sales.
 
