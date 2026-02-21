@@ -82,9 +82,10 @@ Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75)
 - Use these insights to guide **inventory, promotions, and menu optimization**.
 Insights:
 
-# <img width="3000" height="1800" alt="line_ Monthly trend" src="https://github.com/user-attachments/assets/2fbbe912-1afa-46d6-ae16-997640fdf102" />
-Trend Analysis
+
+# Trend Analysis
 ## Monthly Sales Overview
+<img width="3000" height="1800" alt="line_ Monthly trend" src="https://github.com/user-attachments/assets/2fbbe912-1afa-46d6-ae16-997640fdf102" />
 
 Peak Months: May (₦71,402.75) and July (₦72,557.90), driving Q2 as the strongest quarter (₦208,369.75).
 
