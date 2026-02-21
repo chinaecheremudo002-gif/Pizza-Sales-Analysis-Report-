@@ -36,15 +36,6 @@ Professional Insight: Pizza sales are strongest during traditional meal times, r
 
 ![Pizza Sales hour Chart](hourly_pizza_sales.png)
 
-## Monthly Sales Overview
-
-Peak Months: May (₦71,402.75) and July (₦72,557.90), driving Q2 as the strongest quarter (₦208,369.75).
-
-Lowest Months: September (₦64,180.05) and October (₦64,027.60), making Q4 the weakest quarter (₦199,124.10).
-
-Moderate Quarters: Q1: ₦205,350.00, Q3:₦205,993.10, showing consistent activity.
-
-Insight: Slight monthly fluctuations indicate steady demand. Focus marketing and inventory strategies on peak months, while targeting slower months with promotions to smooth seasonal dips.
 
 # Product Performance
 ## Top 5 Best-Selling Pizzas
@@ -91,11 +82,16 @@ Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75)
 - Use these insights to guide **inventory, promotions, and menu optimization**.
 Insights:
 
-Revenue concentration: A few high-performing pizzas account for 40–70% of total category revenue, showing the importance of flagship items.
+# <img width="3000" height="1800" alt="line_ Monthly trend" src="https://github.com/user-attachments/assets/2fbbe912-1afa-46d6-ae16-997640fdf102" />
+Trend Analysis
+## Monthly Sales Overview
 
-Large sizes dominate revenue across all categories due to higher prices and suitability for group consumption.
+Peak Months: May (₦71,402.75) and July (₦72,557.90), driving Q2 as the strongest quarter (₦208,369.75).
 
-Classic leads because of both high-revenue pizzas and strong mid-range contributors.
+Lowest Months: September (₦64,180.05) and October (₦64,027.60), making Q4 the weakest quarter (₦199,124.10).
 
-Supreme and Chicken rely heavily on top sellers, while Veggie provides balance and niche appeal.
+Moderate Quarters: Q1: ₦205,350.00, Q3:₦205,993.10, showing consistent activity.
+
+Insight: Slight monthly fluctuations indicate steady demand. Focus marketing and inventory strategies on peak months, while targeting slower months with promotions to smooth seasonal dips.
+
 
