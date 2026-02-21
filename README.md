@@ -74,13 +74,21 @@ Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75)
 ## what size the most 
 <img width="3000" height="1800" alt="pizza_size_dual_axis_right" src="https://github.com/user-attachments/assets/2d2a7242-954a-4d92-978e-e6e771f02844" />
 
-Pizza Category Performance & Size Insights
-Category	Key Revenue Contributors (Naira)	% of Category Revenue	Total Category Revenue	Size Driving Revenue
-Classic	Classic Deluxe (38,180.50), Hawaiian (32,273.25), Pepperoni (30,161.75), Big Meat, Pepperoni, Mushroom & Peppers	~45%	220,053.10	Large pizzas dominate
-Supreme	Spicy Italian (34,831.25), Italian Supreme (33,476.75), Sicilian (30,940.50), Spinach Supreme, Brie Carre	~47%	208,197.00	Large pizzas dominate
-Chicken	Thai Chicken (43,434.25), Barbecue Chicken (42,768.00), California Chicken (41,409.50), Pepperoni Chicken, BBQ Deluxe	~67%	195,919.50	Large pizzas dominate
-Veggie	Four Cheese (32,265.70), Mexicana (26,780.75), Five Cheese (26,066.50), Mediterranean, Green Garden	~50%	193,690.45	Large pizzas dominate
+## Pizza Category Performance & Size Insights
 
+| Category | Total Revenue (₦) | Contribution from Key Pizzas (%) | Size Driving Revenue |
+|----------|-----------------|-------------------------------|--------------------|
+| Classic  | 220,053         | ~45%                           | Large pizzas dominate |
+| Supreme  | 208,197         | ~47%                           | Large pizzas dominate |
+| Chicken  | 195,920         | ~67%                           | Large pizzas dominate |
+| Veggie   | 193,690         | ~50%                           | Large pizzas dominate |
+
+### Insights
+- **Revenue concentration:** A few top pizzas generate 40–70% of each category’s total revenue.  
+- **Large sizes dominate revenue** due to higher prices and group consumption preference.  
+- Classic leads because of a **balance of high-revenue and mid-range pizzas**.  
+- Supreme and Chicken rely heavily on **top performers**, while Veggie provides **menu variety**.  
+- Use these insights to guide **inventory, promotions, and menu optimization**.
 Insights:
 
 Revenue concentration: A few high-performing pizzas account for 40–70% of total category revenue, showing the importance of flagship items.
