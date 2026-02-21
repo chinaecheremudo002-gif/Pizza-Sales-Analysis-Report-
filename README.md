@@ -6,6 +6,8 @@ This project analyzes one year of sales data from a fictitious pizza restaurant 
 
 The goal of this project is to understand customer purchasing behavior, identify the best and worst performing pizzas, determine peak sales periods, and evaluate how different pizza categories contribute to total revenue. These insights can help businesses make informed decisions to improve sales performance and optimize their menu.
 
+# Dashboard Overview
+
 <img width="6000" height="12000" alt="overall view" src="https://github.com/user-attachments/assets/8c47ebbc-368e-4636-9c1c-4161ce87c06d" />
 
 
