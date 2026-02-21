@@ -119,6 +119,16 @@ The pizza sales analysis shows that a small number of pizzas drive **40–70% of
 
 **Overall:** Strategic focus on **top pizzas, large sizes, peak sales periods, and category strengths**, combined with targeted promotion and menu management, will improve revenue, customer satisfaction, and operational efficiency.
 
+# Dataset Overview
+
+Source: Kaggle (simulated/fictitious pizza sales dataset)
+
+Total Records: 48,620 order entries
+
+Columns: 13, including order details, pizza info, quantity, size, price, date/time, category, and ingredients
+
+Data Types: 4 integers, 1 datetime, 1 float, 7 objects
+
 
 
 
