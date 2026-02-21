@@ -68,7 +68,31 @@ Insight: While these five pizza varieties are the top sellers, they contribute o
 
 Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75), Spinach Supreme Pizza ($15,360.50), and Spinach Pesto Pizza ($15,596.00) generated the lowest revenue, showing that customers prefer meat-based or classic pizzas. The Brie Carre, being the weakest performer, may need better promotion, a price adjustment, or reconsideration on the menu to boost sales.
 
+## Best performimg category 
+<img width="3000" height="1800" alt="pie chartss pizza_category" src="https://github.com/user-attachments/assets/df12c377-c097-4987-b4c5-ef414d6a4670" />
 
+## what size the most 
+<img width="3000" height="1800" alt="pizza_size_dual_axis_right" src="https://github.com/user-attachments/assets/2d2a7242-954a-4d92-978e-e6e771f02844" />
+
+Pizza Category Revenue Overview
+
+Classic: Top performer with 220,053.10 Naira. Flagship pizzas like Classic Deluxe (38,180.50), Hawaiian (32,273.25), and Pepperoni (30,161.75) drive nearly 45% of revenue. Strong mid-level contributors boost total earnings.
+
+Supreme: Second highest at 208,197.00 Naira. Spicy Italian (34,831.25), Italian Supreme (33,476.75), Sicilian (30,940.50) dominate; fewer mid-range pizzas limit total revenue.
+
+Chicken: 195,919.50 Naira, with top hits Thai Chicken (43,434.25), Barbecue Chicken (42,768.00), California Chicken (41,409.50) contributing 67% of category revenue. High individual performance, but less breadth.
+
+Veggie: 193,690.45 Naira, led by Four Cheese (32,265.70), Mexicana (26,780.75), Five Cheese (26,066.50). Balanced but lower overall revenue; appeals to niche customers.
+
+Insights:
+
+Revenue depends on both top performers and mid-level contributors.
+
+Large pizzas generate most revenue due to price and group preference.
+
+Focus promotions on Classic and Supreme, maintain Chicken hits, and use Veggie pizzas for variety.
+
+If you like, I can also turn this into an even snappier 1–2 sentence “story for dashboards” that’s ultra-readable at a glance with numbers. This is often perfect for GitHub READMEs. Do you want me to do that too?
 
 
 
