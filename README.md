@@ -4,27 +4,26 @@ Which pizzas sell the most, when, and why? A Python analysis of sales patterns a
 
 This project analyzes one year of sales data from a fictitious pizza restaurant to uncover key business insights and sales trends. The dataset contains detailed information about each order, including the date and time, pizza type, size, quantity, price, and ingredients. The data was originally provided in four separate tables: Orders, Order Details, Pizzas, and Pizza Types, which were merged into a single dataset to enable comprehensive analysis.
 
-# Dataset Overview
+## Dataset Overview
 
-The dataset was obtained from Kaggle and contains 48,620 pizza sales records, where each row represents a pizza purchased in an order. The data includes order details, product information, and timestamps, enabling detailed analysis of sales performance, customer demand, and revenue patterns.
+The dataset contains 48,620 pizza sales records, where each row represents a pizza purchased in an order.
 
-Important Columns Used for Analysis
-Column	Description	Why It Is Important
-order_id	Unique identifier for each order	Used to calculate total number of orders
-date	Date of the order	Used for daily, weekly, and monthly trend analysis
-Hours	Hour of the order	Used to identify peak sales hours
-name	Name of the pizza	Used to identify top and worst-selling pizzas
-category	Pizza category (Classic, Chicken, Supreme, Veggie)	Used for category performance analysis
-size	Pizza size (Small, Medium, Large)	Used to determine which size generates the most revenue
-quantity	Number of pizzas sold	Used to measure demand
-price	Price per pizza	Used to calculate revenue
+### Important Columns Used for Analysis
 
-The goal of this project is to understand customer purchasing behavior, identify the best and worst performing pizzas, determine peak sales periods, and evaluate how different pizza categories contribute to total revenue. These insights can help businesses make informed decisions to improve sales performance and optimize their menu.
+| Column Name | Description | Purpose in Analysis |
+|-------------|-------------|---------------------|
+| order_id | Unique identifier for each order | Used to calculate total number of orders |
+| date | Date when the order was placed | Used for daily, weekly, and monthly sales trend analysis |
+| Hours | Hour when the order was placed | Used to identify peak sales hours |
+| name | Name of the pizza | Used to identify best-selling and underperforming pizzas |
+| category | Category of the pizza (Classic, Chicken, Supreme, Veggie) | Used to compare category performance |
+| size | Size of the pizza (Small, Medium, Large) | Used to determine which size generates the most revenue |
+| quantity | Number of pizzas sold | Used to measure customer demand |
+| price | Price per pizza | Used to calculate total revenue |
+| ingredients | Ingredients used in the pizza | Used to understand customer preferences |
 
 # Dashboard Overview
-
 <img width="6000" height="12000" alt="overall view" src="https://github.com/user-attachments/assets/8c47ebbc-368e-4636-9c1c-4161ce87c06d" />
-
 
 # Pizza Place Sales Analysis: Key Metrics Overview
 
