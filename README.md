@@ -66,9 +66,9 @@ The restaurant offers 32 different pizza types, giving customers a wide variety 
 # Sales Patterns Over Time
 ## Weekly Sales Overview
 
-Peak Days: Friday (136,074), Thursday (123,529), Saturday (123,182).___ highest customer demand.
+Peak Days: Friday (136,074), Thursday (123,529), Saturday (123,182). highest customer demand.
 
-Low Days: Monday (107,330) and Sunday (99,204)___ slower sales periods.
+Low Days: Monday (107,330) and Sunday (99,204). slower sales periods.
 
 **Insight:** Focus operational efforts and promotions on Thursday through Saturday to maximize revenue. Slower days can be used for preparation, staff training, or targeted marketing campaigns.
 ![Pizza Sales weekdays](daily_pizza_sales.png)
@@ -113,7 +113,7 @@ Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75)
 ## Best performimg category 
 <img width="3000" height="1800" alt="pie chartss pizza_category" src="https://github.com/user-attachments/assets/df12c377-c097-4987-b4c5-ef414d6a4670" />
 
-## what size the most 
+## what pizza size generated the highest revenue ?
 <img width="3000" height="1800" alt="pizza_size_dual_axis_right" src="https://github.com/user-attachments/assets/2d2a7242-954a-4d92-978e-e6e771f02844" />
 
 ## Pizza Category Performance & Size Insights
