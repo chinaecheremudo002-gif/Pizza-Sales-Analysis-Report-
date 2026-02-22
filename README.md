@@ -4,6 +4,21 @@ Which pizzas sell the most, when, and why? A Python analysis of sales patterns a
 
 This project analyzes one year of sales data from a fictitious pizza restaurant to uncover key business insights and sales trends. The dataset contains detailed information about each order, including the date and time, pizza type, size, quantity, price, and ingredients. The data was originally provided in four separate tables: Orders, Order Details, Pizzas, and Pizza Types, which were merged into a single dataset to enable comprehensive analysis.
 
+# Dataset Overview
+
+The dataset was obtained from Kaggle and contains 48,620 pizza sales records, where each row represents a pizza purchased in an order. The data includes order details, product information, and timestamps, enabling detailed analysis of sales performance, customer demand, and revenue patterns.
+
+Important Columns Used for Analysis
+Column	Description	Why It Is Important
+order_id	Unique identifier for each order	Used to calculate total number of orders
+date	Date of the order	Used for daily, weekly, and monthly trend analysis
+Hours	Hour of the order	Used to identify peak sales hours
+name	Name of the pizza	Used to identify top and worst-selling pizzas
+category	Pizza category (Classic, Chicken, Supreme, Veggie)	Used for category performance analysis
+size	Pizza size (Small, Medium, Large)	Used to determine which size generates the most revenue
+quantity	Number of pizzas sold	Used to measure demand
+price	Price per pizza	Used to calculate revenue
+
 The goal of this project is to understand customer purchasing behavior, identify the best and worst performing pizzas, determine peak sales periods, and evaluate how different pizza categories contribute to total revenue. These insights can help businesses make informed decisions to improve sales performance and optimize their menu.
 
 # Dashboard Overview
@@ -115,15 +130,6 @@ The pizza sales analysis shows that a small number of pizzas drive **40–70% of
 
 **Overall:** Strategic focus on **top pizzas, large sizes, peak sales periods, and category strengths**, combined with targeted promotion and menu management, will improve revenue, customer satisfaction, and operational efficiency.
 
-# Dataset Overview
-
-Source: Kaggle (simulated/fictitious pizza sales dataset)
-
-Total Records: 48,620 order entries
-
-Columns: 13, including order details, pizza info, quantity, size, price, date/time, category, and ingredients
-
-Data Types: 4 integers, 1 datetime, 1 float, 7 objects
 
 
 
