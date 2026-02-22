@@ -118,13 +118,12 @@ Some pizzas are selling much less than others. The Brie Carre Pizza ($13,955.75)
 
 ## Pizza Category Performance & Size Insights
 
-| Category | Total Revenue (₦) | Contribution from Key Pizzas (%) | Size Driving Revenue |
-|----------|-----------------|-------------------------------|--------------------|
-| Classic  | 220,053         | ~45%                           | Large pizzas dominate |
-| Supreme  | 208,197         | ~47%                           | Large pizzas dominate |
-| Chicken  | 195,920         | ~67%                           | Large pizzas dominate |
-| Veggie   | 193,690         | ~50%                           | Large pizzas dominate |
-
+| Category | Total Revenue (₦) | Average Price (₦) | Contribution from Key Pizzas (%) | Size Driving Revenue |
+|----------|-----------------|-----------------|---------------------------------|--------------------|
+| Classic  | 220,053.10      | 14.80           | ~45%                            | Large pizzas dominate |
+| Supreme  | 208,197.00      | 17.36           | ~47%                            | Large pizzas dominate |
+| Chicken  | 195,919.50      | 17.71           | ~67%                            | Large pizzas dominate |
+| Veggie   | 193,690.45      | 16.61           | ~50%                            | Large pizzas dominate |
 ### Insights
 - **Revenue concentration:** A few top pizzas generate 40–70% of each category’s total revenue.  
 - **Large sizes dominate revenue** due to higher prices and group consumption preference.  
