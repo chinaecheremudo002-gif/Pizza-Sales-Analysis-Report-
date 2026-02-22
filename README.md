@@ -57,7 +57,6 @@ Without cleaning, the insights and conclusions would be incorrect.
 
 # Dashboard Overview
 <img width="6000" height="12000" alt="overall view" src="https://github.com/user-attachments/assets/8c47ebbc-368e-4636-9c1c-4161ce87c06d" />
-
 # Pizza Place Sales Analysis: Key Metrics Overview
 
 Over the course of one year, the pizza restaurant generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas in total. This demonstrates a steady stream of customers and strong overall demand.
@@ -71,7 +70,7 @@ Peak Days: Friday (136,074), Thursday (123,529), Saturday (123,182).___ highest 
 
 Low Days: Monday (107,330) and Sunday (99,204)___ slower sales periods.
 
-Insight: Focus operational efforts and promotions on Thursday through Saturday to maximize revenue. Slower days can be used for preparation, staff training, or targeted marketing campaigns.
+**Insight:** Focus operational efforts and promotions on Thursday through Saturday to maximize revenue. Slower days can be used for preparation, staff training, or targeted marketing campaigns.
 ![Pizza Sales weekdays](daily_pizza_sales.png)
 
 ## Peak and Off-Peak Sales Hours
@@ -145,7 +144,7 @@ Lowest Months: September (₦64,180.05) and October (₦64,027.60), making Q4 th
 
 Moderate Quarters: Q1: ₦205,350.00, Q3:₦205,993.10, showing consistent activity.
 
-Insight: Slight monthly fluctuations indicate steady demand. Focus marketing and inventory strategies on peak months, while targeting slower months with promotions to smooth seasonal dips.
+**Insight:** Slight monthly fluctuations indicate steady demand. Focus marketing and inventory strategies on peak months, while targeting slower months with promotions to smooth seasonal dips.
 
 ## Conclusion & Recommendations
 
