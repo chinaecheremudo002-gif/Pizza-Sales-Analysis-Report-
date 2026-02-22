@@ -91,15 +91,15 @@ Professional Insight: Pizza sales are strongest during traditional meal times, r
 # Product Performance
 ## Top 5 Best-Selling Pizzas
 
-Thai Chicken Pizza – ₦43,434.25
+Thai Chicken Pizza:₦43,434.25
 
-Barbecue Chicken Pizza – ₦42,768.00
+Barbecue Chicken Pizza: ₦42,768.00
 
-California Chicken Pizza – ₦41,409.50
+California Chicken Pizza: ₦41,409.50
 
-Classic Deluxe Pizza – ₦38,180.50
+Classic Deluxe Pizza: ₦38,180.50
 
-Spicy Italian Pizza – ₦34,831.25
+Spicy Italian Pizza: ₦34,831.25
 
 Insight: While these five pizza varieties are the top sellers, they contribute only about 24% of total revenue, indicating that sales are well-distributed across a wide range of menu items. Targeted marketing and promotions for these popular items can still boost revenue, but broad operational strategies should consider the full menu to maximize overall performance.
 
