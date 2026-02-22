@@ -4,11 +4,11 @@ Which pizzas sell the most, when, and why? A Python analysis of sales patterns a
 
 This project analyzes one year of sales data from a fictitious pizza restaurant to uncover key business insights and sales trends. The dataset contains detailed information about each order, including the date and time, pizza type, size, quantity, price, and ingredients. The data was originally provided in four separate tables: Orders, Order Details, Pizzas, and Pizza Types, which were merged into a single dataset to enable comprehensive analysis.
 
-## Dataset Overview
+# Dataset Overview
 
 The dataset contains 48,620 pizza sales records, where each row represents a pizza purchased in an order.
 
-### Important Columns Used for Analysis
+## Important Columns Used for Analysis
 
 | Column Name | Description | Purpose in Analysis |
 |-------------|-------------|---------------------|
@@ -20,7 +20,40 @@ The dataset contains 48,620 pizza sales records, where each row represents a piz
 | size | Size of the pizza (Small, Medium, Large) | Used to determine which size generates the most revenue |
 | quantity | Number of pizzas sold | Used to measure customer demand |
 | price | Price per pizza | Used to calculate total revenue |
-| ingredients | Ingredients used in the pizza | Used to understand customer preferences |
+
+## Data Cleaning Process
+
+Before analysis, the dataset was cleaned and prepared to ensure accuracy, consistency, and reliability.
+
+### Cleaning Steps Performed
+
+| Step | Action Taken | Purpose |
+|------|--------------|---------|
+| Checked for missing values | Verified all columns had complete records | Ensured no incorrect analysis due to null values |
+| Verified data types | Converted `date` to datetime format and ensured `price` was float | Enabled proper time series and revenue analysis |
+| Created Hour column | Extracted hour from order time | Used to identify peak sales hours |
+| Merged datasets | Combined Orders, Order Details, Pizzas, and Pizza Types tables | Created a single dataset for full analysis |
+| Checked duplicates | Ensured no duplicate transactions | Prevented double counting of revenue |
+| Created Revenue column | Calculated Revenue = Quantity × Price | Used to measure total sales performance |
+| Renamed columns | Standardized column names for clarity | Improved readability and analysis workflow |
+### Final Dataset Summary
+
+- Total Records: **48,620**
+- Total Columns: **13**
+- No Missing Values
+- No Duplicate Records
+- Data Types Correctly Formatted
+
+### Why Data Cleaning Is Important
+
+Data cleaning ensures that the analysis results are:
+
+- Accurate  
+- Reliable  
+- Free from errors  
+- Ready for business decision-making  
+
+Without cleaning, the insights and conclusions would be incorrect.
 
 # Dashboard Overview
 <img width="6000" height="12000" alt="overall view" src="https://github.com/user-attachments/assets/8c47ebbc-368e-4636-9c1c-4161ce87c06d" />
